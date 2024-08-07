@@ -8,3 +8,4 @@
     <p>Categories: {data.category}</p>
 	<svelte:component this={data.content} />
 </article>
+
